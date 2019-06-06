@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Lean/LeanFingerTap.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/LeanTouchScene.unity
+  isLoaded: 1
+  isActive: 1
